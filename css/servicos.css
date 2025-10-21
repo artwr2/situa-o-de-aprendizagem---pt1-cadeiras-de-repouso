@@ -33,19 +33,18 @@ ul{
   text-align: center;
 }
 a{
-  text-decoration: none;
-  font-size: larger;
-  color: red;
+    text-decoration: none;
+    font-size: larger;
+    color: red;
 }
 main p{
-  text-align: center;
-  font-size: larger;
+    text-align: center;
+    font-size: larger;
 }
 main h1{
-  text-align: center;
+    margin-left: 700px;
 }
 footer p{
-  text-align: center;
-  padding: 40px;
-  margin-left: 30px;
+    padding: 40px;
+    text-align: center;
 }
